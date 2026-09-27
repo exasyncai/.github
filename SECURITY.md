@@ -2,7 +2,7 @@
 
 Exasync publishes small tools and Claude Code skills that run on your machine and sometimes touch your mail, your keys or your files. Reports are taken seriously.
 
-**Report privately.** Use GitHub's "Report a vulnerability" on the affected repository (Security tab, private to the maintainers), or mail operations@exasync.ai with "security" in the subject. Please do not open a public issue for anything that could expose a user. You get an answer within five working days and a fix or a written assessment within thirty days. If you want credit in the release notes, say so in the report.
+**Report privately.** Use GitHub's "Report a vulnerability" on the affected repository (Security tab, private to the maintainers), or mail security@exasync.ai. Please do not open a public issue for anything that could expose a user. You get an answer within five working days and a fix or a written assessment within thirty days. If you want credit in the release notes, say so in the report.
 
 ## Supported versions
 
